@@ -3,5 +3,5 @@ module go-first-3
 go 1.19
 
 require github.com/arsham/rainbow v1.0.0
-require mellium.im/sasl v0.2.1 // indirect
-require github.com/gogo/protobuf v1.2.1
+
+require github.com/arsham/strings v0.0.0-20181015215346-d1b453ead28d // indirect
